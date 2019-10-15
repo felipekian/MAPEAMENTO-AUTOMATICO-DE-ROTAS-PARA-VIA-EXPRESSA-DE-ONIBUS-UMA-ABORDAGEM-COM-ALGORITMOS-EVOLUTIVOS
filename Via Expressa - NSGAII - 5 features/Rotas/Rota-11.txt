@@ -1,0 +1,16 @@
+Rota 11 - 47 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Ville Roy
+3ª - Rua Araújo Filho
+4ª - Avenida Capitão Ene Garcez
+5ª - Avenida Capitão Ene Garcêz
+6ª - Rua Alfredo Cruz
+7ª - Rua General Penha Brasil
+8ª - Rua Coronel Mota
+9ª - Rua Alferes Paulo Saldanha
+10ª - Rua Barão do Rio Branco
+11ª - Avenida Capitão Júlio Bezerra
+12ª - Avenida Nossa Senhora da Consolata
+13ª - Rua Rocha Leal
+14ª - Avenida Amazonas
