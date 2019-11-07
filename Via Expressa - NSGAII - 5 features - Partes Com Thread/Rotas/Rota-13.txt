@@ -1,0 +1,21 @@
+Rota 13 - 64 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Glaycon de Paiva
+3ª - Rua Araújo Filho
+4ª - Avenida Capitão Ene Garcez
+5ª - Rua Coronel Pinto
+6ª - Rua Professor Agnelo Bitencourt
+7ª - Rua Alfredo Cruz
+8ª - Rua General Penha Brasil
+9ª - Avenida Major Williams
+10ª - Rua Coronel Mota
+11ª - Rua Alferes Paulo Saldanha
+12ª - Avenida Capitão Júlio Bezerra
+13ª - Rua Barão do Rio Branco
+14ª - Avenida Ville Roy
+15ª - Avenida Benjamin Constant
+16ª - Avenida Getúlio Vargas
+17ª - Unname
+18ª - Avenida João Pereira de Melo
+19ª - Avenida Amazonas

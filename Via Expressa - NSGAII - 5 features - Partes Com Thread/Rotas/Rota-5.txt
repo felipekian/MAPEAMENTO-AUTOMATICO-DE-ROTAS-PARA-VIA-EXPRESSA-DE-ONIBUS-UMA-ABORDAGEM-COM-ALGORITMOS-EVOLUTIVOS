@@ -1,0 +1,14 @@
+Rota 5 - 25 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Rua Coronel Pinto
+3ª - Rua Professor Agnelo Bitencourt
+4ª - Rua Alfredo Cruz
+5ª - Rua General Penha Brasil
+6ª - Avenida Major Williams
+7ª - Rua Valério Magalhães
+8ª - Rua Coronel Mota
+9ª - Rua Alferes Paulo Saldanha
+10ª - Avenida Capitão Júlio Bezerra
+11ª - Avenida Amazonas
+12ª - Avenida Capitão Ene Garcez

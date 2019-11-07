@@ -1,0 +1,15 @@
+Rota 2 - 21 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Rua Coronel Pinto
+3ª - Rua Professor Agnelo Bitencourt
+4ª - Rua Alfredo Cruz
+5ª - Rua General Penha Brasil
+6ª - Avenida Major Williams
+7ª - Rua Valério Magalhães
+8ª - Rua Coronel Mota
+9ª - Rua Alferes Paulo Saldanha
+10ª - Rua Barão do Rio Branco
+11ª - Avenida Capitão Júlio Bezerra
+12ª - Avenida Amazonas
+13ª - Avenida Capitão Ene Garcez
