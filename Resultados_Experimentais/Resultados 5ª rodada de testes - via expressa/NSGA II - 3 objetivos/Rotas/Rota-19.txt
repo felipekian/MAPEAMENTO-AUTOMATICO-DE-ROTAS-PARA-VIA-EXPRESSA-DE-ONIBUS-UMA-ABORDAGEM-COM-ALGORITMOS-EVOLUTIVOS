@@ -1,0 +1,25 @@
+Rota 19 - 84 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Benjamin Constant
+3ª - Rua Araújo Filho
+4ª - Avenida Nossa Senhora da Consolata
+5ª - Avenida Terêncio Lima
+6ª - Avenida Glaycon de Paiva
+7ª - Rua Cerejo Cruz
+8ª - Avenida Mário Homem de Melo
+9ª - Rua Dom Pedro I
+10ª - Rua Pedro Rodrigues
+11ª - Rua Ajuricaba
+12ª - Avenida Capitão Ene Garcêz
+13ª - Avenida Capitão Ene Garcez
+14ª - Rua Coronel Pinto
+15ª - Rua General Penha Brasil
+16ª - Rua Lobo D'Almada
+17ª - Rua Professor Agnelo Bitencourt
+18ª - Rua Tiradentes
+19ª - Avenida Capitão Júlio Bezerra
+20ª - Avenida Major Williams
+21ª - Rua Alferes Paulo Saldanha
+22ª - Rua Barão do Rio Branco
+23ª - Avenida Amazonas

@@ -1,0 +1,13 @@
+Rota 7 - 35 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Rua Coronel Pinto
+3ª - Rua General Penha Brasil
+4ª - Avenida Major Williams
+5ª - Rua Professor Agnelo Bitencourt
+6ª - Rua Coronel Mota
+7ª - Avenida Ville Roy
+8ª - Avenida Amazonas
+9ª - Avenida Capitão Júlio Bezerra
+10ª - Rua Alfredo Cruz
+11ª - Avenida Capitão Ene Garcez

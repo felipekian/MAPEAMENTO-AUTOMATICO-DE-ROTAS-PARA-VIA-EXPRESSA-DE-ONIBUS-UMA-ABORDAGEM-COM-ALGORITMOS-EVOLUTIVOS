@@ -1,0 +1,11 @@
+Rota 4 - 17 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Rua Coronel Pinto
+3ª - Rua Professor Agnelo Bitencourt
+4ª - Rua Alfredo Cruz
+5ª - Rua Alferes Paulo Saldanha
+6ª - Rua Coronel Mota
+7ª - Avenida Capitão Júlio Bezerra
+8ª - Avenida Amazonas
+9ª - Avenida Capitão Ene Garcez

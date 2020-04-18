@@ -1,0 +1,9 @@
+Rota 1 - 14 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Rua Coronel Pinto
+3ª - Rua Professor Agnelo Bitencourt
+4ª - Rua Barão do Rio Branco
+5ª - Avenida Capitão Júlio Bezerra
+6ª - Avenida Amazonas
+7ª - Avenida Capitão Ene Garcez

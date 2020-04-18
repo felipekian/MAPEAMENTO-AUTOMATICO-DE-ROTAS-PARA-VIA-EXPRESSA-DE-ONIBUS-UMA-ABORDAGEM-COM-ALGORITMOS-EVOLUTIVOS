@@ -1,0 +1,14 @@
+Rota 3 - 34 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Mário Homem de Melo
+3ª - Rua Araújo Filho
+4ª - Avenida Capitão Ene Garcez
+5ª - Rua Coronel Pinto
+6ª - Rua General Penha Brasil
+7ª - Rua Alfredo Cruz
+8ª - Rua Alferes Paulo Saldanha
+9ª - Rua Coronel Mota
+10ª - Avenida Capitão Júlio Bezerra
+11ª - Avenida Ville Roy
+12ª - Avenida Amazonas

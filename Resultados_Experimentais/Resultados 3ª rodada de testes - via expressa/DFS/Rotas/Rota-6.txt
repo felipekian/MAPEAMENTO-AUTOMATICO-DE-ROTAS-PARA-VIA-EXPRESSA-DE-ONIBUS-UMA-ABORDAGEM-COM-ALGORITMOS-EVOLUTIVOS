@@ -1,0 +1,15 @@
+Rota 6 - 35 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Rua Coronel Pinto
+3ª - Rua General Penha Brasil
+4ª - Avenida Major Williams
+5ª - Rua Professor Agnelo Bitencourt
+6ª - Rua Coronel Mota
+7ª - Avenida Capitão Júlio Bezerra
+8ª - Avenida Ville Roy
+9ª - Rua Barão do Rio Branco
+10ª - Rua Rocha Leal
+11ª - Rua Alfredo Cruz
+12ª - Avenida Amazonas
+13ª - Avenida Capitão Ene Garcez

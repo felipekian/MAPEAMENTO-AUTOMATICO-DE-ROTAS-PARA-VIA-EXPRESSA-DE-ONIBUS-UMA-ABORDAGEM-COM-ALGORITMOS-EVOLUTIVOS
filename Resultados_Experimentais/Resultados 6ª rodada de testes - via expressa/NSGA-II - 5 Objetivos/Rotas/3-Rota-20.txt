@@ -1,0 +1,20 @@
+Rota 20 - 66 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Glaycon de Paiva
+3ª - Rua Araújo Filho
+4ª - Avenida Mário Homem de Melo
+5ª - Rua Ajuricaba
+6ª - Rua Cerejo Cruz
+7ª - Rua Cecília Brasil
+8ª - Avenida Ville Roy
+9ª - Avenida Nossa Senhora da Consolata
+10ª - Rua Coronel Pinto
+11ª - Avenida Getúlio Vargas
+12ª - Rua Barão do Rio Branco
+13ª - Rua Rocha Leal
+14ª - Rua Alfredo Cruz
+15ª - Avenida Capitão Júlio Bezerra
+16ª - Rua Alferes Paulo Saldanha
+17ª - Rua General Penha Brasil
+18ª - Avenida Amazonas

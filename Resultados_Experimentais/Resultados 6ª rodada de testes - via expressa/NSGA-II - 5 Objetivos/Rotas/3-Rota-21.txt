@@ -1,0 +1,21 @@
+Rota 21 - 67 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Glaycon de Paiva
+3ª - Rua Araújo Filho
+4ª - Avenida Mário Homem de Melo
+5ª - Rua Ajuricaba
+6ª - Rua Cerejo Cruz
+7ª - Rua Professor Diomedes Souto Maior
+8ª - Rua Cecília Brasil
+9ª - Avenida Ville Roy
+10ª - Avenida Nossa Senhora da Consolata
+11ª - Rua Coronel Pinto
+12ª - Avenida Getúlio Vargas
+13ª - Rua Barão do Rio Branco
+14ª - Rua Rocha Leal
+15ª - Rua Alfredo Cruz
+16ª - Avenida Capitão Júlio Bezerra
+17ª - Rua Alferes Paulo Saldanha
+18ª - Rua General Penha Brasil
+19ª - Avenida Amazonas

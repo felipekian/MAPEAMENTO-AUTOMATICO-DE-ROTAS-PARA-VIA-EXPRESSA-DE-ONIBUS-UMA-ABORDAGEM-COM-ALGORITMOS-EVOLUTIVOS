@@ -1,0 +1,17 @@
+Rota 5 - 38 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Mário Homem de Melo
+3ª - Rua Ajuricaba
+4ª - Rua Dom Pedro I
+5ª - Rua Cerejo Cruz
+6ª - Avenida Terêncio Lima
+7ª - Avenida Major Williams
+8ª - Rua Valério Magalhães
+9ª - Rua Coronel Mota
+10ª - Rua Professor Agnelo Bitencourt
+11ª - Rua Alfredo Cruz
+12ª - Avenida Capitão Júlio Bezerra
+13ª - Rua Coronel Pinto
+14ª - Avenida Ville Roy
+15ª - Avenida Amazonas

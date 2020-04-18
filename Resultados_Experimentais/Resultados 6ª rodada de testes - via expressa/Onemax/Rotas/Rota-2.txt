@@ -1,0 +1,15 @@
+Rota 2 - 32 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Mário Homem de Melo
+3ª - Rua Araújo Filho
+4ª - Avenida Capitão Ene Garcez
+5ª - Avenida Capitão Ene Garcêz
+6ª - Rua Alfredo Cruz
+7ª - Rua General Penha Brasil
+8ª - Rua Coronel Mota
+9ª - Avenida Capitão Júlio Bezerra
+10ª - Rua Barão do Rio Branco
+11ª - Rua Rocha Leal
+12ª - Avenida Ville Roy
+13ª - Avenida Amazonas

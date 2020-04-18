@@ -1,0 +1,17 @@
+Rota 4 - 48 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Rua Coronel Pinto
+3ª - Rua General Penha Brasil
+4ª - Rua Coronel Mota
+5ª - Rua Valério Magalhães
+6ª - Avenida Major Williams
+7ª - Rua Lobo D'Almada
+8ª - Rua Tiradentes
+9ª - Rua Professor Agnelo Bitencourt
+10ª - Rua Alferes Paulo Saldanha
+11ª - Rua Barão do Rio Branco
+12ª - Rua Alfredo Cruz
+13ª - Avenida Ville Roy
+14ª - Avenida Amazonas
+15ª - Avenida Capitão Ene Garcez

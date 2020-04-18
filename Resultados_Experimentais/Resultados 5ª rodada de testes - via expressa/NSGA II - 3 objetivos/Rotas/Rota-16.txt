@@ -1,0 +1,24 @@
+Rota 16 - 74 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Benjamin Constant
+3ª - Rua Araújo Filho
+4ª - Avenida Ville Roy
+5ª - Rua Cerejo Cruz
+6ª - Rua Ajuricaba
+7ª - Avenida Nossa Senhora da Consolata
+8ª - Avenida Terêncio Lima
+9ª - Avenida Glaycon de Paiva
+10ª - Avenida Mário Homem de Melo
+11ª - Rua Dom Pedro I
+12ª - Rua Pedro Rodrigues
+13ª - Avenida Capitão Ene Garcêz
+14ª - Avenida Capitão Ene Garcez
+15ª - Rua Coronel Pinto
+16ª - Rua General Penha Brasil
+17ª - Avenida Major Williams
+18ª - Rua Valério Magalhães
+19ª - Rua Coronel Mota
+20ª - Rua Alferes Paulo Saldanha
+21ª - Avenida Capitão Júlio Bezerra
+22ª - Avenida Amazonas

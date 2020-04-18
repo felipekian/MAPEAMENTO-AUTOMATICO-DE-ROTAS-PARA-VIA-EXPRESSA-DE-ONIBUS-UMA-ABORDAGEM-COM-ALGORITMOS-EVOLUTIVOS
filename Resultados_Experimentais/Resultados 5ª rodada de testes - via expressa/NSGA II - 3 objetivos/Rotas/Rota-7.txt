@@ -1,0 +1,13 @@
+Rota 7 - 23 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Mário Homem de Melo
+3ª - Rua Araújo Filho
+4ª - Avenida Capitão Ene Garcez
+5ª - Rua Coronel Pinto
+6ª - Rua Professor Agnelo Bitencourt
+7ª - Rua Coronel Mota
+8ª - Rua Alferes Paulo Saldanha
+9ª - Rua Alfredo Cruz
+10ª - Avenida Capitão Júlio Bezerra
+11ª - Avenida Amazonas

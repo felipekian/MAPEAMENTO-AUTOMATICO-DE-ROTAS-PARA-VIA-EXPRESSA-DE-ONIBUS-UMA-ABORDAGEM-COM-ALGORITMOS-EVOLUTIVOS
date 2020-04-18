@@ -1,0 +1,11 @@
+Rota 2 - 17 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Avenida Capitão Ene Garcêz
+3ª - Rua Alfredo Cruz
+4ª - Rua General Penha Brasil
+5ª - Rua Barão do Rio Branco
+6ª - Rua Alferes Paulo Saldanha
+7ª - Avenida Capitão Júlio Bezerra
+8ª - Avenida Amazonas
+9ª - Avenida Capitão Ene Garcez

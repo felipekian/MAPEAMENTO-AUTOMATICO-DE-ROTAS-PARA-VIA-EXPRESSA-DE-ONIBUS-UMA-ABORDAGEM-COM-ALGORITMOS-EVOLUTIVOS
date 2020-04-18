@@ -1,0 +1,14 @@
+Rota 8 - 34 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Avenida Capitão Ene Garcêz
+3ª - Rua Alfredo Cruz
+4ª - Rua Alferes Paulo Saldanha
+5ª - Rua Coronel Mota
+6ª - Avenida Capitão Júlio Bezerra
+7ª - Rua Barão do Rio Branco
+8ª - Avenida Major Williams
+9ª - Avenida Ville Roy
+10ª - Avenida Nossa Senhora da Consolata
+11ª - Avenida Amazonas
+12ª - Avenida Capitão Ene Garcez

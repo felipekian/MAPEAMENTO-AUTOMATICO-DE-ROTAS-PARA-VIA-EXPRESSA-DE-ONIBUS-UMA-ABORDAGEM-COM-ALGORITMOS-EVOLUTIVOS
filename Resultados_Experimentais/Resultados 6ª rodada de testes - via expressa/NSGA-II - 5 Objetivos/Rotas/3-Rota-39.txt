@@ -1,0 +1,28 @@
+Rota 39 - 99 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Avenida Amazonas
+3ª - Avenida Glaycon de Paiva
+4ª - Rua Araújo Filho
+5ª - Avenida Mário Homem de Melo
+6ª - Rua Ajuricaba
+7ª - Rua Dom Pedro I
+8ª - Rua Cerejo Cruz
+9ª - Rua Professor Diomedes Souto Maior
+10ª - Rua Cecília Brasil
+11ª - Avenida Ville Roy
+12ª - Avenida Nossa Senhora da Consolata
+13ª - Rua Alfredo Cruz
+14ª - Rua Coronel Pinto
+15ª - Avenida Getúlio Vargas
+16ª - Rua Barão do Rio Branco
+17ª - Avenida Benjamin Constant
+18ª - Rua Rocha Leal
+19ª - Avenida Capitão Júlio Bezerra
+20ª - Rua Alferes Paulo Saldanha
+21ª - Avenida Major Williams
+22ª - Rua Valério Magalhães
+23ª - Rua Coronel Mota
+24ª - Rua Professor Agnelo Bitencourt
+25ª - Rua General Penha Brasil
+26ª - Avenida Capitão Ene Garcez

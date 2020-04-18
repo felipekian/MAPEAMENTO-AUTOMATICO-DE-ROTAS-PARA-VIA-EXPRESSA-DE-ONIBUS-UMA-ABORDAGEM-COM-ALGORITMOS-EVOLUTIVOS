@@ -1,0 +1,17 @@
+Rota 4 - 31 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Mário Homem de Melo
+3ª - Rua Araújo Filho
+4ª - Avenida Capitão Ene Garcez
+5ª - Rua Coronel Pinto
+6ª - Rua General Penha Brasil
+7ª - Rua Coronel Mota
+8ª - Rua Professor Agnelo Bitencourt
+9ª - Rua Barão do Rio Branco
+10ª - Rua Alferes Paulo Saldanha
+11ª - Rua Alfredo Cruz
+12ª - Avenida Capitão Júlio Bezerra
+13ª - Rua Rocha Leal
+14ª - Avenida Ville Roy
+15ª - Avenida Amazonas

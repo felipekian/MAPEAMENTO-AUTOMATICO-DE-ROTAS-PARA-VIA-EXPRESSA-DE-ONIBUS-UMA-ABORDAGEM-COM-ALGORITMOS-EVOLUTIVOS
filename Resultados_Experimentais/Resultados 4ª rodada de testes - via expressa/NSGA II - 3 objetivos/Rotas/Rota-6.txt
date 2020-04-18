@@ -1,0 +1,19 @@
+Rota 6 - 68 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Avenida Amazonas
+3ª - Avenida Glaycon de Paiva
+4ª - Rua Cerejo Cruz
+5ª - Rua Ajuricaba
+6ª - Avenida Nossa Senhora da Consolata
+7ª - Avenida Terêncio Lima
+8ª - Rua Araújo Filho
+9ª - Avenida Ville Roy
+10ª - Avenida Benjamin Constant
+11ª - Rua Coronel Pinto
+12ª - Avenida Getúlio Vargas
+13ª - Rua Coronel Mota
+14ª - Rua Barão do Rio Branco
+15ª - Rua Rocha Leal
+16ª - Rua Alfredo Cruz
+17ª - Avenida Capitão Ene Garcez

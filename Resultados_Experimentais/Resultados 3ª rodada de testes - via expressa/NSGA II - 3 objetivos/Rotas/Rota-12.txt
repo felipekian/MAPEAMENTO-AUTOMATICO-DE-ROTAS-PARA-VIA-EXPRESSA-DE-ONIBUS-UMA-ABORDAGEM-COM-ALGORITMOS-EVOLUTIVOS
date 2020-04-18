@@ -1,0 +1,22 @@
+Rota 12 - 67 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida João Pereira de Melo
+3ª - Unname
+4ª - Avenida Getúlio Vargas
+5ª - Avenida Jaime Brasil
+6ª - Avenida Bento Brasil
+7ª - Avenida Sebastião Diniz
+8ª - Unname
+9ª - Unname
+10ª - Unname
+11ª - Unname
+12ª - Rua Alfredo Cruz
+13ª - Rua José Magalhães
+14ª - Avenida Benjamin Constant
+15ª - Avenida Nossa Senhora da Consolata
+16ª - Rua Coronel Mota
+17ª - Rua Barão do Rio Branco
+18ª - Avenida Ville Roy
+19ª - Avenida Capitão Júlio Bezerra
+20ª - Avenida Amazonas

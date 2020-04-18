@@ -1,0 +1,14 @@
+Rota 5 - 30 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Glaycon de Paiva
+3ª - Rua Cerejo Cruz
+4ª - Avenida Mário Homem de Melo
+5ª - Avenida Terêncio Lima
+6ª - Avenida Capitão Ene Garcêz
+7ª - Avenida Capitão Ene Garcez
+8ª - Rua Alfredo Cruz
+9ª - Rua General Penha Brasil
+10ª - Rua Coronel Pinto
+11ª - Avenida Capitão Júlio Bezerra
+12ª - Avenida Amazonas

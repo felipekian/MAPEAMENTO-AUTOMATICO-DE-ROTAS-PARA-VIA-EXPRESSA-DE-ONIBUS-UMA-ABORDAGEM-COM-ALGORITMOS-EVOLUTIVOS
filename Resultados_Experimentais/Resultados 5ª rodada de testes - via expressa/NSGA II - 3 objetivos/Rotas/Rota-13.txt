@@ -1,0 +1,15 @@
+Rota 13 - 57 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Rua Coronel Pinto
+3ª - Rua General Penha Brasil
+4ª - Rua Coronel Mota
+5ª - Rua Major Manoel Correia
+6ª - Rua Barão do Rio Branco
+7ª - Avenida Capitão Ene Garcêz
+8ª - Avenida Capitão Ene Garcês
+9ª - Avenida Terêncio Lima
+10ª - Avenida Amazonas
+11ª - Avenida Nossa Senhora da Consolata
+12ª - Avenida Ville Roy
+13ª - Avenida Capitão Ene Garcez

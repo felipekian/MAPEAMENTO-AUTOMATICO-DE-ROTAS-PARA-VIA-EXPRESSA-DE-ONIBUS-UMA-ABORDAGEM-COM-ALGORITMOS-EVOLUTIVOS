@@ -1,0 +1,24 @@
+Rota 15 - 71 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Nossa Senhora da Consolata
+3ª - Rua Araújo Filho
+4ª - Avenida Ville Roy
+5ª - Rua Cerejo Cruz
+6ª - Rua Ajuricaba
+7ª - Avenida Terêncio Lima
+8ª - Avenida Glaycon de Paiva
+9ª - Avenida Mário Homem de Melo
+10ª - Rua Dom Pedro I
+11ª - Rua Pedro Rodrigues
+12ª - Avenida Capitão Ene Garcêz
+13ª - Avenida Capitão Ene Garcez
+14ª - Rua Coronel Pinto
+15ª - Rua General Penha Brasil
+16ª - Rua Coronel Mota
+17ª - Rua Valério Magalhães
+18ª - Avenida Major Williams
+19ª - Rua Professor Agnelo Bitencourt
+20ª - Rua Alferes Paulo Saldanha
+21ª - Avenida Capitão Júlio Bezerra
+22ª - Avenida Amazonas

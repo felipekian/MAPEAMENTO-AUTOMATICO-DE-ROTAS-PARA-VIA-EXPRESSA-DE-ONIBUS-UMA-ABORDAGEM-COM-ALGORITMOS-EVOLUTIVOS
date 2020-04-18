@@ -1,0 +1,14 @@
+Rota 8 - 25 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Rua Coronel Pinto
+3ª - Rua General Penha Brasil
+4ª - Avenida Major Williams
+5ª - Rua Valério Magalhães
+6ª - Rua Coronel Mota
+7ª - Rua Alferes Paulo Saldanha
+8ª - Rua Rocha Leal
+9ª - Rua Barão do Rio Branco
+10ª - Avenida Capitão Júlio Bezerra
+11ª - Avenida Amazonas
+12ª - Avenida Capitão Ene Garcez

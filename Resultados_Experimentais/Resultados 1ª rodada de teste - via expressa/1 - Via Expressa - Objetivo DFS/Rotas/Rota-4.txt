@@ -1,0 +1,20 @@
+Rota 4 - 45 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Rua Coronel Pinto
+3ª - Rua General Penha Brasil
+4ª - Rua Alfredo Cruz
+5ª - Avenida Capitão Ene Garcêz
+6ª - Rua Barão do Rio Branco
+7ª - Rua Major Manoel Correia
+8ª - Rua Coronel Mota
+9ª - Avenida Capitão Ene Garcês
+10ª - Avenida Terêncio Lima
+11ª - Avenida Major Williams
+12ª - Rua Valério Magalhães
+13ª - Rua Professor Agnelo Bitencourt
+14ª - Rua Alferes Paulo Saldanha
+15ª - Avenida Capitão Júlio Bezerra
+16ª - Avenida Ville Roy
+17ª - Avenida Amazonas
+18ª - Avenida Capitão Ene Garcez

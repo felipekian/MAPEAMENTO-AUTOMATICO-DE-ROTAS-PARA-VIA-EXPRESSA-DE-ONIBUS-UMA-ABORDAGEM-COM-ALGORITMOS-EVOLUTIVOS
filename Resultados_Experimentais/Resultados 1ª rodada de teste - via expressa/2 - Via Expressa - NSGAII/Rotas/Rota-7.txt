@@ -1,0 +1,17 @@
+Rota 7 - 41 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Mário Homem de Melo
+3ª - Rua Araújo Filho
+4ª - Avenida Capitão Ene Garcez
+5ª - Rua Coronel Pinto
+6ª - Rua General Penha Brasil
+7ª - Rua Barão do Rio Branco
+8ª - Rua Professor Agnelo Bitencourt
+9ª - Rua Coronel Mota
+10ª - Rua Alferes Paulo Saldanha
+11ª - Avenida Major Williams
+12ª - Avenida Ville Roy
+13ª - Avenida Capitão Júlio Bezerra
+14ª - Rua Alfredo Cruz
+15ª - Avenida Amazonas

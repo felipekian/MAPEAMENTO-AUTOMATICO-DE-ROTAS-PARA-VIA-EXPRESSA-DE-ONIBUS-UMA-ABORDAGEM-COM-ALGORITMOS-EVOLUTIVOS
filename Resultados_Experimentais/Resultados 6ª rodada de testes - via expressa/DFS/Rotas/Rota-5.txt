@@ -1,0 +1,14 @@
+Rota 5 - 33 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Mário Homem de Melo
+3ª - Rua Cerejo Cruz
+4ª - Avenida Capitão Ene Garcêz
+5ª - Avenida Capitão Ene Garcez
+6ª - Rua Coronel Pinto
+7ª - Rua General Penha Brasil
+8ª - Rua Alfredo Cruz
+9ª - Rua Alferes Paulo Saldanha
+10ª - Rua Barão do Rio Branco
+11ª - Avenida Capitão Júlio Bezerra
+12ª - Avenida Amazonas

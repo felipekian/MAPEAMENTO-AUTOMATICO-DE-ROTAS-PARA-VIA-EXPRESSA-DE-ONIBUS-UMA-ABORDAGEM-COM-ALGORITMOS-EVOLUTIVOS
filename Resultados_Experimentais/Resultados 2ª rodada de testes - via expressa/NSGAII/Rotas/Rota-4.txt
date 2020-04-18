@@ -1,0 +1,15 @@
+Rota 4 - 25 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Avenida Capitão Ene Garcêz
+3ª - Rua Alfredo Cruz
+4ª - Rua General Penha Brasil
+5ª - Avenida Major Williams
+6ª - Rua Valério Magalhães
+7ª - Rua Coronel Mota
+8ª - Rua Professor Agnelo Bitencourt
+9ª - Avenida Capitão Júlio Bezerra
+10ª - Rua Coronel Pinto
+11ª - Avenida Ville Roy
+12ª - Avenida Amazonas
+13ª - Avenida Capitão Ene Garcez

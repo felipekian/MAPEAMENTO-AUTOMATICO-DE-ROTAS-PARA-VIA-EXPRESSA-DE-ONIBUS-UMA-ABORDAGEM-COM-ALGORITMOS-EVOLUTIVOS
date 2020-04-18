@@ -1,0 +1,14 @@
+Rota 11 - 47 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Nossa Senhora da Consolata
+3ª - Rua Coronel Pinto
+4ª - Avenida Getúlio Vargas
+5ª - Rua Barão do Rio Branco
+6ª - Avenida Benjamin Constant
+7ª - Rua Coronel Mota
+8ª - Rua Alferes Paulo Saldanha
+9ª - Rua Alfredo Cruz
+10ª - Rua General Penha Brasil
+11ª - Avenida Capitão Júlio Bezerra
+12ª - Avenida Amazonas

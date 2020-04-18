@@ -1,0 +1,25 @@
+Rota 32 - 89 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Avenida Amazonas
+3ª - Avenida Glaycon de Paiva
+4ª - Rua Araújo Filho
+5ª - Avenida Mário Homem de Melo
+6ª - Rua Ajuricaba
+7ª - Rua Dom Pedro I
+8ª - Rua Cerejo Cruz
+9ª - Rua Cecília Brasil
+10ª - Avenida Ville Roy
+11ª - Avenida Nossa Senhora da Consolata
+12ª - Rua Alfredo Cruz
+13ª - Rua Coronel Pinto
+14ª - Avenida Getúlio Vargas
+15ª - Avenida Benjamin Constant
+16ª - Rua Barão do Rio Branco
+17ª - Rua Rocha Leal
+18ª - Avenida Capitão Júlio Bezerra
+19ª - Rua Coronel Mota
+20ª - Rua Alferes Paulo Saldanha
+21ª - Rua Professor Agnelo Bitencourt
+22ª - Rua General Penha Brasil
+23ª - Avenida Capitão Ene Garcez

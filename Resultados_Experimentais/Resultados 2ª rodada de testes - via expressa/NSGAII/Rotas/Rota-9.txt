@@ -1,0 +1,21 @@
+Rota 9 - 56 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Glaycon de Paiva
+3ª - Rua Araújo Filho
+4ª - Avenida Capitão Ene Garcez
+5ª - Rua Coronel Pinto
+6ª - Rua General Penha Brasil
+7ª - Avenida Major Williams
+8ª - Rua Valério Magalhães
+9ª - Rua Coronel Mota
+10ª - Rua Professor Agnelo Bitencourt
+11ª - Rua Alfredo Cruz
+12ª - Rua Alferes Paulo Saldanha
+13ª - Rua Barão do Rio Branco
+14ª - Avenida Capitão Júlio Bezerra
+15ª - Avenida Ville Roy
+16ª - Avenida Nossa Senhora da Consolata
+17ª - Avenida Benjamin Constant
+18ª - Rua Rocha Leal
+19ª - Avenida Amazonas

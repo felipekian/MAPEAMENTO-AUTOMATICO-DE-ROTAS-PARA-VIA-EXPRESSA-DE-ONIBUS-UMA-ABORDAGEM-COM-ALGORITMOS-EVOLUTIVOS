@@ -1,0 +1,12 @@
+Rota 9 - 43 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Doutor Silvio Lofêgo Botelho
+3ª - Avenida Getúlio Vargas
+4ª - Avenida Benjamin Constant
+5ª - Rua Alfredo Cruz
+6ª - Avenida Nossa Senhora da Consolata
+7ª - Rua Coronel Mota
+8ª - Avenida Ville Roy
+9ª - Avenida Capitão Júlio Bezerra
+10ª - Avenida Amazonas

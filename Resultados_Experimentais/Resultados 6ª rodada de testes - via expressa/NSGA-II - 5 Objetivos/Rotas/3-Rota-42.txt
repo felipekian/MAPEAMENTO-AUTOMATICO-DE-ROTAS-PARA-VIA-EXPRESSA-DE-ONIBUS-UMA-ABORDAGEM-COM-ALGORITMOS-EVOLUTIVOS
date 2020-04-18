@@ -1,0 +1,26 @@
+Rota 42 - 112 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Avenida Amazonas
+3ª - Avenida Glaycon de Paiva
+4ª - Rua Araújo Filho
+5ª - Avenida Mário Homem de Melo
+6ª - Rua Cerejo Cruz
+7ª - Rua Cecília Brasil
+8ª - Avenida Ville Roy
+9ª - Avenida Nossa Senhora da Consolata
+10ª - Rua Alfredo Cruz
+11ª - Rua Coronel Pinto
+12ª - Avenida Getúlio Vargas
+13ª - Rua Barão do Rio Branco
+14ª - Avenida Benjamin Constant
+15ª - Rua Rocha Leal
+16ª - Avenida Capitão Júlio Bezerra
+17ª - Avenida Major Williams
+18ª - Avenida Santos Dumont
+19ª - Rua Tiradentes
+20ª - Rua Professor Agnelo Bitencourt
+21ª - Rua Valério Magalhães
+22ª - Rua Coronel Mota
+23ª - Rua General Penha Brasil
+24ª - Avenida Capitão Ene Garcez

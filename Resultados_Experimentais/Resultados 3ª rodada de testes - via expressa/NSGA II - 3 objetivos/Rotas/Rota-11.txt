@@ -1,0 +1,16 @@
+Rota 11 - 50 Arestas:
+
+1ª - Avenida Amazonas
+2ª - Avenida Nossa Senhora da Consolata
+3ª - Rua Cerejo Cruz
+4ª - Avenida Ville Roy
+5ª - Avenida Terêncio Lima
+6ª - Rua Professor Diomedes Souto Maior
+7ª - Avenida Glaycon de Paiva
+8ª - Avenida Capitão Ene Garcêz
+9ª - Avenida Capitão Ene Garcez
+10ª - Rua Coronel Pinto
+11ª - Rua General Penha Brasil
+12ª - Rua Alfredo Cruz
+13ª - Avenida Capitão Júlio Bezerra
+14ª - Avenida Amazonas

@@ -1,0 +1,13 @@
+Rota 7 - 23 Arestas:
+
+1ª - Avenida Capitão Ene Garcez
+2ª - Rua Coronel Pinto
+3ª - Rua General Penha Brasil
+4ª - Rua Barão do Rio Branco
+5ª - Rua Professor Agnelo Bitencourt
+6ª - Rua Coronel Mota
+7ª - Rua Rocha Leal
+8ª - Rua Alfredo Cruz
+9ª - Avenida Ville Roy
+10ª - Avenida Amazonas
+11ª - Avenida Capitão Ene Garcez
