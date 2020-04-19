@@ -168,6 +168,6 @@
 ![](imagens_markdown/testeArestasTotal.png)
 
 
-# OBRIGADO POR PRESTIGIAR ESTUDO TRABALHO
+# OBRIGADO POR PRESTIGIAR
 
 # CONTADO E-mail: felipekian@yahoo.com.br
